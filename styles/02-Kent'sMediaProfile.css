@@ -1,0 +1,26 @@
+#wrapper{
+    background-color: #EEEEEE;
+    width: 1000px;
+}
+
+header{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+section{
+    display: inline-block;
+    margin: 0;
+    vertical-align: top;
+}
+
+figure{
+    width: 200px;
+    margin: 0;
+}
+
+embed, audio{
+    width: 200px;
+}
+
